@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/oneillci/egghead-react-app/issues"
   },
-  "homepage": "https://github.com/oneillci/egghead-react-app#readme"
+  "homepage": "https://github.com/oneillci/egghead-react-app#readme",
+  "dependencies": {
+    "react": "^0.13.3"
+  }
 }
