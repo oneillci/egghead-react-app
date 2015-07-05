@@ -1,3 +1,5 @@
+/* web pack is run via webpack -w */
+
 var React = require('react');
 
 var Main = React.createClass({
