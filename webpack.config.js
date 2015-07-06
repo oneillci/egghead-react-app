@@ -1,6 +1,6 @@
 /* webpack installed globally via npm install webpack -g */
 module.exports = {
-	entry: "./app/components/Main.js",
+	entry: "./app/app.js",
 	output: {
 		filename: "public/bundle.js"
 	},

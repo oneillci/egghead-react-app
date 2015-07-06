@@ -10,4 +10,6 @@ var Main = React.createClass({
 	}
 });
 
-React.render(<Main />, document.getElementById("app"));
+// react-router now responsible for rendering, so just export main
+// React.render(<Main />, document.getElementById("app"));
+module.exports = Main;

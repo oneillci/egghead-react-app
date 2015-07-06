@@ -1,6 +1,6 @@
 var React = require("react");
 
-var Home = React.createClass(
+var Home = React.createClass({
 	render: function() {
 		return(
 			<h2 className="text-center">
@@ -8,4 +8,4 @@ var Home = React.createClass(
 			</h2>
 		)
 	}
-);
+});
